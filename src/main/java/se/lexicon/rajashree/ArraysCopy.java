@@ -6,6 +6,7 @@ public class ArraysCopy {
 
     public static void main(String[] args) {
 
+        System.out.println(" Test Message ");
 
         int[] array1 = {1, 15, 20,};
         int[] array2 = Arrays.copyOf(array1, 3);
